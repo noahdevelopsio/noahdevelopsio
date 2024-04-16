@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @noahdevelops.io
-- 👀 I’m interested in software development, machine learning, and robotics.
+- 👀 I’m interested in data science, software development, machine learning, and robotics.
 - 🔭 I’m currently working on developing a web application for data visualization.
 - 🌱 I’m currently learning React and advanced data analysis techniques.
 - 👯 I’m looking to collaborate on open-source projects related to web development or data science.
