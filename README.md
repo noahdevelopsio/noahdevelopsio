@@ -112,6 +112,4 @@ I love traveling
 
 Thank you for visiting my profile! 😊
 
-![Profile Views](https://komarev.com/ghpvc/?username=noahdevelopsio&color=brightgreen&style=flat-square&label=Profile+Views)
-
 </div>
