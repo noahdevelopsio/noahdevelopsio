@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://noahdevelops.vercel.app/meta.jpg" alt="Profile Banner" width="100%" />
-</div>
-
-<div align="center">
 
 # Hi 👋, I'm Noah Enemali 
 
@@ -10,19 +6,11 @@
 
 </div>
 
-## 💼 Current Work
-
-<div align="left">
-
-- 🔭 I'm currently working on **CampusX**
-
-</div>
-
 ## 📚 Learning & Knowledge
 
 <div align="left">
 
-- 🌱 I'm currently learning **Docker and Kubernetes **
+- 🌱 I'm currently learning **Docker and Kubernetes
 
 </div>
 
@@ -40,7 +28,7 @@
 
 <div align="center">
 
-*I love traveling *
+I love traveling 
 
 </div>
 
@@ -122,7 +110,7 @@
 
 ### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-**Thank you for visiting my profile! 😊**
+Thank you for visiting my profile! 😊
 
 ![Profile Views](https://komarev.com/ghpvc/?username=noahdevelopsio&color=brightgreen&style=flat-square&label=Profile+Views)
 
